@@ -1,3 +1,45 @@
+# 5 POint Double Toggle Clamp- modelling
+
+
+![Geometric diagram](https://github.com/plastic-hub/products/blob/master/projects/industrial-injector/clamping-mechanism/geometrical-drawing-main.png)
+
+L1----length of back toggle
+
+L2----length of frontal rod
+
+L3----length of larger connecting toggle
+
+L4----length of nether connecting rod
+
+L5----length of middle connecting rod
+
+L6----length of crosshead connecting rod
+
+α ----toggle angle
+
+φ----coping angle
+
+β----angle between L2 and horizontal line
+
+H----height of crosshead center
+
+h----height of template center
+
+γ0----fastigiated angle
+
+θ----angle between L1 and L3
+
+φ0----maximal coping angle
+
+S0----stroke of crosshead
+
+Sb----stroke of moving platen
+
+λ1----ratio of L1 and L2
+
+λ2----ratio of L3 and L4
+
+
 # Equations
 
 ---
@@ -9,7 +51,7 @@ Platen Fully Open:
 
 \alpha =\alpha _{\max },\psi =\psi _{0}
 
-Platen Fully CLosed:
+Platen Fully Closed:
 
 ![equation](https://quicklatex.com/cache3/9f/ql_f590547b0eda0e919fa3c6a32bb8009f_l3.png)
 
@@ -45,9 +87,9 @@ M_{s}\left( \alpha \right) =\dfrac{S_{b}\left( \alpha \right) }{S_{0}\left( \alp
 
 ---
 
-Velocity Ratio:
+## 4. Velocity Ratio:
 
-## 4. Average velocity of moving platten
+Average velocity of moving platten
 
 
 
