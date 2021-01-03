@@ -17,8 +17,8 @@ Platen Fully CLosed:
 
 ---
 
-Stroke of moving crosshead (S<sub>b</sub>)
-(1)
+## 1. Stroke of moving crosshead (S<sub>b</sub>)
+
 
 ![equation](https://quicklatex.com/cache3/b6/ql_bc459ece3ca7ebfda6ae65c0308445b6_l3.png)
 
@@ -27,8 +27,8 @@ S_{b}\left( \alpha \right) =L1\left\{ \dfrac{1}{\lambda _{1}}\left[ \cos \gamma 
 
 ---
 
-Stroke of moving platen (S<sub>0</sub>)
-(2)
+## 2. Stroke of moving platen (S<sub>0</sub>)
+
 
 ![equation](https://quicklatex.com/cache3/13/ql_0190c4fed2c7261e07f3d6ce346b4313_l3.png)
 
@@ -36,8 +36,8 @@ S_{0}\left( \alpha \right) =L3\left\{ \left[ \cos \left( \theta +\gamma _{0}\rig
 
 ---
 
-Ratio of stroke (M<sub>S</sub>)
-(3)
+## 3. Ratio of stroke (M<sub>S</sub>)
+
 
 ![equation](https://quicklatex.com/cache3/4b/ql_5a8f3b086d491f6305b083c30469f14b_l3.png)
 
@@ -47,9 +47,9 @@ M_{s}\left( \alpha \right) =\dfrac{S_{b}\left( \alpha \right) }{S_{0}\left( \alp
 
 Velocity Ratio:
 
-Average velocity of moving platten
+## 4. Average velocity of moving platten
 
-(4)
+
 
 ![equation](https://quicklatex.com/cache3/b5/ql_0346c8f4ac505e9da0ab59d9d93d02b5_l3.png)
 
@@ -57,7 +57,7 @@ M_{v}=\dfrac{dS_{m}}{dS_{0}}=\dfrac{\gamma _{m}}{V_{0}}=\dfrac{L_{1}}{L_{3}}\sin
 
 ---
 
-Amplified Force Ratio
+## 5. Amplified Force Ratio
 
 Amplifying ratio (M<sub>p</sub>) between the moving platen and the input screw/cylinder
 
@@ -74,7 +74,11 @@ V_{0}P_{0}=V_{m}\left( \alpha\right) P_{m}\left( \alpha\right)
 
 M_{p}\left( \alpha \right) =\dfrac{P_{m}\left( \alpha \right) }{P_{0}}=\dfrac{V_{0}}{V_{m}\left( \alpha \right) }=\dfrac{S_{0}}{S_{m}\left( \alpha \right) }
 
+
+
 (6)
+
+
 
 ![equation](https://quicklatex.com/cache3/3e/ql_9c7e59c2476509861839761496d3953e_l3.png)
 
@@ -82,8 +86,8 @@ M_{p}\left( \alpha \right) =\dfrac{P_{m}\left( \alpha \right) }{P_{0}}=\dfrac{V_
 
 
 
-The functional relationship between psi and alpha:
-(7) 
+## 7. The functional relationship between psi and alpha:
+
 
 ![equation](https://quicklatex.com/cache3/b1/ql_fe0ba990268bc70bd67b8af22c2bfbb1_l3.png)
 
