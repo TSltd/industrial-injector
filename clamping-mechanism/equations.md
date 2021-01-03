@@ -1,5 +1,6 @@
-Equations
+#Equations
 
+---
 Stroke Ratio:
 
 Platen Fully Open:
@@ -14,6 +15,8 @@ Platen Fully CLosed:
 
 \alpha =0,\psi =\psi _{\max }
 
+---
+
 Stroke of moving crosshead (S<sub>b</sub>)
 (1)
 
@@ -22,6 +25,8 @@ Stroke of moving crosshead (S<sub>b</sub>)
 S_{b}\left( \alpha \right) =L1\left\{ \dfrac{1}{\lambda _{1}}\left[ \cos \gamma _{0}-\sqrt{1-\lambda _{1}^{2}\left( 1-\cos ^{2}\alpha \right) }\right] -\cos \left( \gamma _{0}+\alpha \right) +\cos \gamma _{0}\right\}
 
 
+---
+
 Stroke of moving platen (S<sub>0</sub>)
 (2)
 
@@ -29,6 +34,7 @@ Stroke of moving platen (S<sub>0</sub>)
 
 S_{0}\left( \alpha \right) =L3\left\{ \left[ \cos \left( \theta +\gamma _{0}\right) -\cos \left( \theta +\gamma _{0}+\alpha \right) \right] -\dfrac{1}{\lambda _{2}}\left( \cos \psi _{0}\right) \right\}
 
+---
 
 Ratio of stroke (M<sub>S</sub>)
 (3)
@@ -37,6 +43,7 @@ Ratio of stroke (M<sub>S</sub>)
 
 M_{s}\left( \alpha \right) =\dfrac{S_{b}\left( \alpha \right) }{S_{0}\left( \alpha \right) }
 
+---
 
 Velocity Ratio:
 
@@ -48,7 +55,7 @@ Average velocity of moving platten
 
 M_{v}=\dfrac{dS_{m}}{dS_{0}}=\dfrac{\gamma _{m}}{V_{0}}=\dfrac{L_{1}}{L_{3}}\sin \left( \alpha \right) \left( 1+\dfrac{\lambda ,\cos x }{\sqrt{1-\lambda _{1}^{2}}\sin ^{2}\alpha}\right) \dfrac{\cos \psi _{0}}{\sin \left( \alpha +\gamma _{0}+\psi _{0}\right) }
 
-
+---
 
 Amplified Force Ratio
 
